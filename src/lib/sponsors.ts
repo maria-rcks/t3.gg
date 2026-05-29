@@ -663,6 +663,14 @@ const sponsorSeeds: SponsorSeed[] = [
     link: "https://soydev.link/kernel",
     categories: ["ai", "infrastructure"],
   },
+  {
+    name: "devin",
+    image: "devin.svg.astro",
+    description: "the ai software engineer that works alongside your team",
+    link: "https://devin.ai",
+    categories: ["ai", "developer-tools"],
+    tier: "new",
+  },
 ];
 
 export const affiliates = affiliateSeeds.map((brand) =>
@@ -704,6 +712,7 @@ const sponsorTierSlugOrder: Record<SponsorTier, string[]> = {
     "rwx",
     "wispr-flow",
     "dnsimple",
+    "devin",
   ],
 };
 
