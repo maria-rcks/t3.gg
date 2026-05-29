@@ -671,6 +671,46 @@ const sponsorSeeds: SponsorSeed[] = [
     categories: ["ai", "developer-tools"],
     tier: "new",
   },
+  {
+    name: "copilotkit",
+    image: "copilotkit.svg.astro",
+    description: "open-source framework for building ai copilots and agents",
+    link: "https://soydev.link/copilotkit",
+    categories: ["ai", "developer-tools"],
+    tier: "new",
+  },
+  {
+    name: "render",
+    image: "render.svg.astro",
+    description: "cloud platform to build and run apps and websites",
+    link: "https://soydev.link/render",
+    categories: ["deployment", "infrastructure"],
+    tier: "new",
+  },
+  {
+    name: "general-translation",
+    image: "general-translation.svg.astro",
+    description: "developer-first internationalization for react apps",
+    link: "https://soydev.link/gt",
+    categories: ["developer-tools"],
+    tier: "new",
+  },
+  {
+    name: "mercury",
+    image: "mercury.svg.astro",
+    description: "banking built for startups",
+    link: "https://soydev.link/mercury",
+    categories: ["finance"],
+    tier: "new",
+  },
+  {
+    name: "boot-dev",
+    image: "boot-dev.svg.astro",
+    description: "learn backend development through interactive courses",
+    link: "https://soydev.link/bootdev",
+    categories: ["education"],
+    tier: "new",
+  },
 ];
 
 export const affiliates = affiliateSeeds.map((brand) =>
@@ -713,6 +753,11 @@ const sponsorTierSlugOrder: Record<SponsorTier, string[]> = {
     "wispr-flow",
     "dnsimple",
     "devin",
+    "copilotkit",
+    "render",
+    "general-translation",
+    "mercury",
+    "boot-dev",
   ],
 };
 
