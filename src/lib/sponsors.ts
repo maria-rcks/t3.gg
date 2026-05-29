@@ -173,7 +173,7 @@ const sponsorSeeds: SponsorSeed[] = [
     name: "macroscope",
     image: "macroscope.svg.astro",
     description: "ai code reviewer that feels like part of your team.",
-    link: "https://macroscope.com",
+    link: "https://soydev.link/macroscope",
     categories: ["ai", "developer-tools"],
     tier: "new",
   },
