@@ -667,7 +667,7 @@ const sponsorSeeds: SponsorSeed[] = [
     name: "devin",
     image: "devin.svg.astro",
     description: "the ai software engineer that works alongside your team",
-    link: "https://devin.ai",
+    link: "https://soydev.link/devin",
     categories: ["ai", "developer-tools"],
     tier: "new",
   },
