@@ -666,7 +666,7 @@ const sponsorSeeds: SponsorSeed[] = [
   {
     name: "devin",
     image: "devin.svg.astro",
-    description: "the ai software engineer that works alongside your team",
+    description: "incredible cloud agents and much much more",
     link: "https://soydev.link/devin",
     categories: ["ai", "developer-tools"],
     tier: "new",
@@ -674,7 +674,7 @@ const sponsorSeeds: SponsorSeed[] = [
   {
     name: "copilotkit",
     image: "copilotkit.svg.astro",
-    description: "open-source framework for building ai copilots and agents",
+    description: "the only sane way to do generative ui",
     link: "https://soydev.link/copilotkit",
     categories: ["ai", "developer-tools"],
     tier: "new",
@@ -682,7 +682,7 @@ const sponsorSeeds: SponsorSeed[] = [
   {
     name: "render",
     image: "render.svg.astro",
-    description: "cloud platform to build and run apps and websites",
+    description: "all the cloud primitives you need, with a modern experience",
     link: "https://soydev.link/render",
     categories: ["deployment", "infrastructure"],
     tier: "new",
@@ -690,7 +690,7 @@ const sponsorSeeds: SponsorSeed[] = [
   {
     name: "general-translation",
     image: "general-translation.svg.astro",
-    description: "developer-first internationalization for react apps",
+    description: "the best dx for translating your apps",
     link: "https://soydev.link/gt",
     categories: ["developer-tools"],
     tier: "new",
